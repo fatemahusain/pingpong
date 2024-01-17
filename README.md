@@ -1,2 +1,2 @@
 # pingpong
-2D Ping Pong Game usinf Raylib!
+2D Ping Pong Game using Raylib!
